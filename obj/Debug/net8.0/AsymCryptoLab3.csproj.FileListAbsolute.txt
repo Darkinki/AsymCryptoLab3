@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\bin\Debug\net8.0\AsymCryptoLab3.exe
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\bin\Debug\net8.0\AsymCryptoLab3.deps.json
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\bin\Debug\net8.0\AsymCryptoLab3.runtimeconfig.json
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\bin\Debug\net8.0\AsymCryptoLab3.dll
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\bin\Debug\net8.0\AsymCryptoLab3.pdb
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\AsymCryptoLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\AsymCryptoLab3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\AsymCryptoLab3.AssemblyInfo.cs
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\AsymCryptoLab3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\AsymCryptoLab3.dll
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\refint\AsymCryptoLab3.dll
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\AsymCryptoLab3.pdb
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\AsymCryptoLab3.genruntimeconfig.cache
+C:\Users\User\source\repos\AsymCryptoLab3\AsymCryptoLab3\obj\Debug\net8.0\ref\AsymCryptoLab3.dll
